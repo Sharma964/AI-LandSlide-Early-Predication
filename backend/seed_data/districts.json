@@ -1,0 +1,1696 @@
+[
+  {
+    "id": 2,
+    "bbox": [
+      87.4925678500812,
+      26.8598967052017,
+      88.0802293074398,
+      27.4383535384553
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        87.77579807095165,
+        27.114999613984395
+      ]
+    },
+    "title": "Panchthar",
+    "title_en": "Panchthar",
+    "title_ne": "पाँचथर",
+    "code": "panchthar",
+    "order": 1,
+    "province": 1
+  },
+  {
+    "id": 3,
+    "bbox": [
+      87.5996112849745,
+      26.6646425321116,
+      88.1848559296623,
+      27.106266902088
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        87.90156852180152,
+        26.88116091466986
+      ]
+    },
+    "title": "Ilam",
+    "title_en": "Ilam",
+    "title_ne": "इलाम",
+    "code": "ilam",
+    "order": 2,
+    "province": 1
+  },
+  {
+    "id": 4,
+    "bbox": [
+      87.6357086476981,
+      26.361181055769,
+      88.1879838343223,
+      26.8059702129077
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        87.91323301163462,
+        26.584542707538894
+      ]
+    },
+    "title": "Jhapa",
+    "title_en": "Jhapa",
+    "title_ne": "झापा",
+    "code": "jhapa",
+    "order": 3,
+    "province": 1
+  },
+  {
+    "id": 5,
+    "bbox": [
+      87.2385904349898,
+      26.3478370706644,
+      87.690911755772,
+      26.8735377500299
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        87.47019221726813,
+        26.61748610045546
+      ]
+    },
+    "title": "Morang",
+    "title_en": "Morang",
+    "title_ne": "मोरङ्ग",
+    "code": "morang",
+    "order": 4,
+    "province": 1
+  },
+  {
+    "id": 6,
+    "bbox": [
+      86.9040286054561,
+      26.4032716353354,
+      87.3539389370868,
+      26.8787980957452
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        87.170042959904,
+        26.65061352129045
+      ]
+    },
+    "title": "Sunsari",
+    "title_en": "Sunsari",
+    "title_ne": "सुनसरी",
+    "code": "sunsari",
+    "order": 5,
+    "province": 1
+  },
+  {
+    "id": 8,
+    "bbox": [
+      87.3920347289736,
+      26.9680170257492,
+      87.7516512538617,
+      27.297087751069
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        87.5489515139999,
+        27.154388251573035
+      ]
+    },
+    "title": "Terhathum",
+    "title_en": "Terhathum",
+    "title_ne": "तेह्रथुम",
+    "code": "tehrathum",
+    "order": 6,
+    "province": 1
+  },
+  {
+    "id": 9,
+    "bbox": [
+      86.8947934750327,
+      26.8864128838298,
+      87.2756170049848,
+      27.4636563609318
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        87.06789158534278,
+        27.181814756262924
+      ]
+    },
+    "title": "Bhojpur",
+    "title_en": "Bhojpur",
+    "title_ne": "भोजपुर",
+    "code": "bhojpur",
+    "order": 7,
+    "province": 1
+  },
+  {
+    "id": 10,
+    "bbox": [
+      86.9401653085001,
+      27.1363973633528,
+      87.6773699048781,
+      27.9577394232686
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        87.27821232065018,
+        27.58212973365446
+      ]
+    },
+    "title": "Sankhuwasabha",
+    "title_en": "Sankhuwasabha",
+    "title_ne": "संखुवासभा",
+    "code": "sankhuwasabha",
+    "order": 8,
+    "province": 1
+  },
+  {
+    "id": 11,
+    "bbox": [
+      86.3556032033236,
+      27.3380704252687,
+      87.0101569872844,
+      28.1130612812249
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        86.72051571046595,
+        27.71052185331256
+      ]
+    },
+    "title": "Solukhumbu",
+    "title_en": "Solukhumbu",
+    "title_ne": "सोलुखुम्बु",
+    "code": "solukhumbu",
+    "order": 9,
+    "province": 1
+  },
+  {
+    "id": 12,
+    "bbox": [
+      86.4262692810582,
+      26.8722588968174,
+      86.9853374337749,
+      27.440240496601
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        86.78703712216247,
+        27.168102280514958
+      ]
+    },
+    "title": "Khotang",
+    "title_en": "Khotang",
+    "title_ne": "खोटाङ्ग",
+    "code": "khotang",
+    "order": 10,
+    "province": 1
+  },
+  {
+    "id": 13,
+    "bbox": [
+      86.2035805162799,
+      27.1467921940535,
+      86.6861505655633,
+      27.526269463197
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        86.41865849345893,
+        27.32950204426721
+      ]
+    },
+    "title": "Okhaldhunga",
+    "title_en": "Okhaldhunga",
+    "title_ne": "ओखलढुङ्गा",
+    "code": "okhaldhunga",
+    "order": 11,
+    "province": 1
+  },
+  {
+    "id": 14,
+    "bbox": [
+      86.1559244137852,
+      26.6863030996858,
+      87.1686513226172,
+      27.179939736486
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        86.68134767726373,
+        26.90308014899322
+      ]
+    },
+    "title": "Udayapur",
+    "title_en": "Udayapur",
+    "title_ne": "उदयपुर",
+    "code": "udayapur",
+    "order": 12,
+    "province": 1
+  },
+  {
+    "id": 16,
+    "bbox": [
+      86.4859360957934,
+      26.4223835197793,
+      87.0145939355117,
+      26.7910909406142
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        86.74613765632571,
+        26.598120783222697
+      ]
+    },
+    "title": "Saptari",
+    "title_en": "Saptari",
+    "title_ne": "सप्तरी",
+    "code": "saptari",
+    "order": 13,
+    "province": 2
+  },
+  {
+    "id": 20,
+    "bbox": [
+      85.4181620595719,
+      26.9191431698797,
+      86.3898626849262,
+      27.4510307886248
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        85.94376814650762,
+        27.201466891627046
+      ]
+    },
+    "title": "Sindhuli",
+    "title_en": "Sindhuli",
+    "title_ne": "सिन्धुली",
+    "code": "sindhuli",
+    "order": 14,
+    "province": 3
+  },
+  {
+    "id": 22,
+    "bbox": [
+      85.8844006958683,
+      27.4741115644615,
+      86.5547160234924,
+      28.1741755664199
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        86.19861865752415,
+        27.78572113706842
+      ]
+    },
+    "title": "Dolakha",
+    "title_en": "Dolakha",
+    "title_ne": "दोलखा",
+    "code": "dolakha",
+    "order": 15,
+    "province": 3
+  },
+  {
+    "id": 23,
+    "bbox": [
+      85.1224534837077,
+      27.9651514336129,
+      85.8002225601112,
+      28.3862845807188
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        85.41594692791568,
+        28.183248202537015
+      ]
+    },
+    "title": "Rasuwa",
+    "title_en": "Rasuwa",
+    "title_ne": "रसुवा",
+    "code": "rasuwa",
+    "order": 16,
+    "province": 3
+  },
+  {
+    "id": 25,
+    "bbox": [
+      84.9884617801036,
+      27.7606794016816,
+      85.4971313817009,
+      28.0912541638791
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        85.23538711779088,
+        27.915073265545022
+      ]
+    },
+    "title": "Nuwakot",
+    "title_en": "Nuwakot",
+    "title_ne": "नुवाकोट",
+    "code": "nuwakot",
+    "order": 17,
+    "province": 3
+  },
+  {
+    "id": 28,
+    "bbox": [
+      85.2315660348368,
+      27.4030400813167,
+      85.443446866148,
+      27.6935269543638
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        85.34268866827021,
+        27.53968576100482
+      ]
+    },
+    "title": "Lalitpur",
+    "title_en": "Lalitpur",
+    "title_ne": "ललितपुर",
+    "code": "lalitpur",
+    "order": 18,
+    "province": 3
+  },
+  {
+    "id": 31,
+    "bbox": [
+      84.6647853747108,
+      27.1618534883703,
+      85.5103992291986,
+      27.7122669872731
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        85.07919101599765,
+        27.46996511067159
+      ]
+    },
+    "title": "Makwanpur",
+    "title_en": "Makwanpur",
+    "title_ne": "मकवानपुर",
+    "code": "makwanpur",
+    "order": 19,
+    "province": 3
+  },
+  {
+    "id": 33,
+    "bbox": [
+      84.8662164832999,
+      26.8492226691911,
+      85.2710108296192,
+      27.3657434347207
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        85.07064142997248,
+        27.10795953654191
+      ]
+    },
+    "title": "Bara",
+    "title_en": "Bara",
+    "title_ne": "बारा",
+    "code": "bara",
+    "order": 20,
+    "province": 2
+  },
+  {
+    "id": 34,
+    "bbox": [
+      84.4838899645418,
+      26.9838128528466,
+      84.973193197776,
+      27.4631790982775
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        84.7801630348537,
+        27.23968735545858
+      ]
+    },
+    "title": "Parsa",
+    "title_en": "Parsa",
+    "title_ne": "पर्सा",
+    "code": "parsa",
+    "order": 21,
+    "province": 2
+  },
+  {
+    "id": 38,
+    "bbox": [
+      82.6961070274038,
+      27.4179289259864,
+      83.2330549453394,
+      27.8206868107314
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        82.9814859011405,
+        27.627803742491572
+      ]
+    },
+    "title": "Kapilbastu",
+    "title_en": "Kapilbastu",
+    "title_ne": "कपिलवस्तु",
+    "code": "kapilvastu",
+    "order": 22,
+    "province": 5
+  },
+  {
+    "id": 40,
+    "bbox": [
+      82.748381877681,
+      27.7504094860032,
+      83.3305163895699,
+      28.1140032798367
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        83.07931919696374,
+        27.908546382344674
+      ]
+    },
+    "title": "Arghakhanchi",
+    "title_en": "Arghakhanchi",
+    "title_ne": "अर्घाखाॉची",
+    "code": "arghakhanchi",
+    "order": 23,
+    "province": 5
+  },
+  {
+    "id": 42,
+    "bbox": [
+      83.4398801153903,
+      27.8682281020166,
+      84.0319503810438,
+      28.2216899245922
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        83.80321443774628,
+        28.021106723604202
+      ]
+    },
+    "title": "Syangja",
+    "title_en": "Syangja",
+    "title_ne": "स्याङ्गजा",
+    "code": "syangja",
+    "order": 24,
+    "province": 4
+  },
+  {
+    "id": 44,
+    "bbox": [
+      84.4188530093874,
+      27.7956057344879,
+      85.1980163344162,
+      28.7522144268435
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        84.79017695666025,
+        28.318827196979154
+      ]
+    },
+    "title": "Gorkha",
+    "title_en": "Gorkha",
+    "title_ne": "गोरखा",
+    "code": "gorkha",
+    "order": 25,
+    "province": 4
+  },
+  {
+    "id": 46,
+    "bbox": [
+      83.7006203912419,
+      28.0777409922213,
+      84.2787029959058,
+      28.6134385595746
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        83.9973481375455,
+        28.35494649649246
+      ]
+    },
+    "title": "Kaski",
+    "title_en": "Kaski",
+    "title_ne": "कास्की",
+    "code": "kaski",
+    "order": 26,
+    "province": 4
+  },
+  {
+    "id": 47,
+    "bbox": [
+      83.7892648291775,
+      28.4450199535588,
+      84.5705552315087,
+      28.9004527054085
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        84.22451544738435,
+        28.672919154212916
+      ]
+    },
+    "title": "Manang",
+    "title_en": "Manang",
+    "title_ne": "मनाङ्ग",
+    "code": "manang",
+    "order": 27,
+    "province": 4
+  },
+  {
+    "id": 50,
+    "bbox": [
+      82.8773532738891,
+      28.0774610576811,
+      83.6745986424982,
+      28.6352696484877
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        83.25046309844505,
+        28.347502509289278
+      ]
+    },
+    "title": "Baglung",
+    "title_en": "Baglung",
+    "title_ne": "बागलुङ",
+    "code": "baglung",
+    "order": 28,
+    "province": 4
+  },
+  {
+    "id": 52,
+    "bbox": [
+      82.0076140303995,
+      27.6764800846721,
+      82.8101889369688,
+      28.2590506436062
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        82.41038219013222,
+        27.9641441834616
+      ]
+    },
+    "title": "Dang",
+    "title_en": "Dang",
+    "title_ne": "दाङ",
+    "code": "dang",
+    "order": 29,
+    "province": 5
+  },
+  {
+    "id": 54,
+    "bbox": [
+      82.350364119718,
+      28.0927494955129,
+      82.9567349124855,
+      28.5584528116746
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        82.62805588402239,
+        28.344166349140597
+      ]
+    },
+    "title": "Rolpa",
+    "title_en": "Rolpa",
+    "title_ne": "रोल्पा",
+    "code": "rolpa",
+    "order": 30,
+    "province": 5
+  },
+  {
+    "id": 58,
+    "bbox": [
+      81.7624921154755,
+      29.3853742461004,
+      82.8290028003621,
+      29.9713112863597
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        82.37059299567565,
+        29.61807481164375
+      ]
+    },
+    "title": "Mugu",
+    "title_en": "Mugu",
+    "title_ne": "मुगु",
+    "code": "mugu",
+    "order": 31,
+    "province": 6
+  },
+  {
+    "id": 60,
+    "bbox": [
+      81.8462894835764,
+      28.9693947688857,
+      82.5912815197688,
+      29.508096108292
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        82.21726673306101,
+        29.2717137976417
+      ]
+    },
+    "title": "Jumla",
+    "title_en": "Jumla",
+    "title_ne": "जुम्ला",
+    "code": "jumla",
+    "order": 32,
+    "province": 6
+  },
+  {
+    "id": 63,
+    "bbox": [
+      81.4101466550087,
+      28.6333975284307,
+      81.9268688142136,
+      29.1359645831277
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        81.67887551495463,
+        28.881388856821495
+      ]
+    },
+    "title": "Dailekh",
+    "title_en": "Dailekh",
+    "title_ne": "दैलेख",
+    "code": "dailekh",
+    "order": 33,
+    "province": 6
+  },
+  {
+    "id": 64,
+    "bbox": [
+      80.981051199357,
+      28.3373067411845,
+      82.0405256488662,
+      28.9783465174888
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        81.5864078212924,
+        28.641183310260914
+      ]
+    },
+    "title": "Surkhet",
+    "title_en": "Surkhet",
+    "title_ne": "सुर्खेत",
+    "code": "surkhet",
+    "order": 34,
+    "province": 6
+  },
+  {
+    "id": 66,
+    "bbox": [
+      81.4986517828393,
+      27.8537284929633,
+      82.1941803441071,
+      28.3378916985291
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        81.82228931219758,
+        28.087169830604655
+      ]
+    },
+    "title": "Banke",
+    "title_en": "Banke",
+    "title_ne": "बाँके",
+    "code": "banke",
+    "order": 35,
+    "province": 5
+  },
+  {
+    "id": 68,
+    "bbox": [
+      80.5262508557195,
+      28.9307061774071,
+      81.1869770996199,
+      29.4457275681141
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        80.89456957808088,
+        29.169642090029008
+      ]
+    },
+    "title": "Doti",
+    "title_en": "Doti",
+    "title_ne": "डोटी",
+    "code": "doti",
+    "order": 36,
+    "province": 7
+  },
+  {
+    "id": 70,
+    "bbox": [
+      81.1700054888713,
+      29.2719043341708,
+      81.8082221152366,
+      29.9492815105896
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        81.56316251291287,
+        29.561322426006946
+      ]
+    },
+    "title": "Bajura",
+    "title_en": "Bajura",
+    "title_ne": "बाजुरा",
+    "code": "bajura",
+    "order": 37,
+    "province": 7
+  },
+  {
+    "id": 73,
+    "bbox": [
+      80.2416892509416,
+      29.308440376833,
+      80.9082720527775,
+      29.7079833485134
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        80.5715166401557,
+        29.50754103122814
+      ]
+    },
+    "title": "Baitadi",
+    "title_en": "Baitadi",
+    "title_ne": "बैतडी",
+    "code": "baitadi",
+    "order": 38,
+    "province": 7
+  },
+  {
+    "id": 75,
+    "bbox": [
+      80.0585843010467,
+      28.5518152175869,
+      80.5595317568524,
+      29.1373132272885
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        80.32179602711126,
+        28.861823786795433
+      ]
+    },
+    "title": "Kanchanpur",
+    "title_en": "Kanchanpur",
+    "title_ne": "कन्चनपुर",
+    "code": "kanchanpur",
+    "order": 39,
+    "province": 7
+  },
+  {
+    "id": 541,
+    "bbox": [
+      82.4858145784962,
+      28.4754764468673,
+      83.15256230292,
+      28.8692280187363
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        82.81088475092417,
+        28.673989710571888
+      ]
+    },
+    "title": "Rukum East",
+    "title_en": "Rukum East",
+    "title_ne": "रुकुम पूर्व",
+    "code": "rukumeast",
+    "order": 40,
+    "province": 5
+  },
+  {
+    "id": 1,
+    "bbox": [
+      87.4444437654354,
+      27.2681844402189,
+      88.2016677742523,
+      27.9529233658092
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        87.82179927135704,
+        27.58212356597509
+      ]
+    },
+    "title": "Taplejung",
+    "title_en": "Taplejung",
+    "title_ne": "ताप्लेजुङ्ग",
+    "code": "taplejung",
+    "order": 41,
+    "province": 1
+  },
+  {
+    "id": 7,
+    "bbox": [
+      87.148296970323,
+      26.8456632940371,
+      87.5801119477008,
+      27.1909121163734
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        87.33094988258416,
+        26.990930640958236
+      ]
+    },
+    "title": "Dhankuta",
+    "title_en": "Dhankuta",
+    "title_ne": "धनकुटा",
+    "code": "dhankuta",
+    "order": 42,
+    "province": 1
+  },
+  {
+    "id": 15,
+    "bbox": [
+      86.1310334614359,
+      26.5498603791049,
+      86.5546336197216,
+      26.935361514285
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        86.34242043781617,
+        26.74645805665663
+      ]
+    },
+    "title": "Siraha",
+    "title_en": "Siraha",
+    "title_ne": "सिराहा",
+    "code": "siraha",
+    "order": 43,
+    "province": 2
+  },
+  {
+    "id": 17,
+    "bbox": [
+      85.8483333269641,
+      26.5685098263259,
+      86.2597372483212,
+      27.1338516592766
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        86.03388019638834,
+        26.82874155006638
+      ]
+    },
+    "title": "Dhanusa",
+    "title_en": "Dhanusa",
+    "title_ne": "धनुषा",
+    "code": "dhanusha",
+    "order": 44,
+    "province": 2
+  },
+  {
+    "id": 18,
+    "bbox": [
+      85.6761975731952,
+      26.6016636312785,
+      85.9453064577024,
+      27.1684330791329
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        85.81991252749117,
+        26.879132990566962
+      ]
+    },
+    "title": "Mahottari",
+    "title_en": "Mahottari",
+    "title_ne": "महोत्तरी",
+    "code": "mahottari",
+    "order": 45,
+    "province": 2
+  },
+  {
+    "id": 19,
+    "bbox": [
+      85.3218442465365,
+      26.7415329940964,
+      85.815862124065,
+      27.1952429034541
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        85.56531220869543,
+        26.986159229293165
+      ]
+    },
+    "title": "Sarlahi",
+    "title_en": "Sarlahi",
+    "title_ne": "सर्लाही",
+    "code": "sarlahi",
+    "order": 46,
+    "province": 2
+  },
+  {
+    "id": 21,
+    "bbox": [
+      85.7975166437744,
+      27.2421758144519,
+      86.5727626547517,
+      27.8325265867772
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        86.17737024301982,
+        27.51361408075647
+      ]
+    },
+    "title": "Ramechhap",
+    "title_en": "Ramechhap",
+    "title_ne": "रामेछाप",
+    "code": "ramechhap",
+    "order": 47,
+    "province": 3
+  },
+  {
+    "id": 24,
+    "bbox": [
+      85.4417439951479,
+      27.6104947746969,
+      86.0650467984744,
+      28.2034609768878
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        85.73962867740835,
+        27.914972455286772
+      ]
+    },
+    "title": "Sindhupalchok",
+    "title_en": "Sindhupalchok",
+    "title_ne": "सिन्धुपाल्चोक",
+    "code": "sindhupalchowk",
+    "order": 48,
+    "province": 3
+  },
+  {
+    "id": 26,
+    "bbox": [
+      84.6183184597268,
+      27.6687815164541,
+      85.2702420433839,
+      28.3466039777072
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        84.96016032720414,
+        27.954707468396766
+      ]
+    },
+    "title": "Dhading",
+    "title_en": "Dhading",
+    "title_ne": "धादिङ्ग",
+    "code": "dhading",
+    "order": 49,
+    "province": 3
+  },
+  {
+    "id": 27,
+    "bbox": [
+      85.1886443524253,
+      27.5704485249992,
+      85.565843891757,
+      27.8176526673154
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        85.34735132692755,
+        27.728201081500877
+      ]
+    },
+    "title": "Kathmandu",
+    "title_en": "Kathmandu",
+    "title_ne": "काठमाण्डौ",
+    "code": "ktm",
+    "order": 50,
+    "province": 3
+  },
+  {
+    "id": 29,
+    "bbox": [
+      85.3520337755066,
+      27.6199270001063,
+      85.5251388497183,
+      27.7287084571463
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        85.44078719752078,
+        27.67769038360649
+      ]
+    },
+    "title": "Bhaktapur",
+    "title_en": "Bhaktapur",
+    "title_ne": "भक्तपुर",
+    "code": "bhaktapur",
+    "order": 51,
+    "province": 3
+  },
+  {
+    "id": 30,
+    "bbox": [
+      85.3869205693487,
+      27.3335668299429,
+      85.8809912596494,
+      27.7569359178896
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        85.61948290583136,
+        27.535356393143648
+      ]
+    },
+    "title": "Kavrepalanchok",
+    "title_en": "Kavrepalanchok",
+    "title_ne": "काभ्रेपलाञ्चोक",
+    "code": "kavre",
+    "order": 52,
+    "province": 3
+  },
+  {
+    "id": 32,
+    "bbox": [
+      85.1632082762139,
+      26.7446892105735,
+      85.5039577116868,
+      27.2329257106965
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        85.30233086363795,
+        27.001574082293832
+      ]
+    },
+    "title": "Rautahat",
+    "title_en": "Rautahat",
+    "title_ne": "रौतहट",
+    "code": "rautahat",
+    "order": 53,
+    "province": 2
+  },
+  {
+    "id": 35,
+    "bbox": [
+      83.9187728578849,
+      27.3550428764341,
+      84.796671674135,
+      27.8805438877059
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        84.43453047394195,
+        27.584942259802776
+      ]
+    },
+    "title": "Chitwan",
+    "title_en": "Chitwan",
+    "title_ne": "चितवन",
+    "code": "chitwan",
+    "order": 54,
+    "province": 3
+  },
+  {
+    "id": 37,
+    "bbox": [
+      83.2042964654492,
+      27.3302256530826,
+      83.6338932563401,
+      27.7682177421593
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        83.38955026950569,
+        27.576678115670248
+      ]
+    },
+    "title": "Rupandehi",
+    "title_en": "Rupandehi",
+    "title_ne": "रुपन्देही",
+    "code": "rupandehi",
+    "order": 55,
+    "province": 5
+  },
+  {
+    "id": 39,
+    "bbox": [
+      83.2310402280013,
+      27.6621718084475,
+      84.0285404645032,
+      27.9589208307725
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        83.62365185219313,
+        27.817372432844827
+      ]
+    },
+    "title": "Palpa",
+    "title_en": "Palpa",
+    "title_ne": "पाल्पा",
+    "code": "palpa",
+    "order": 56,
+    "province": 5
+  },
+  {
+    "id": 41,
+    "bbox": [
+      83.0218985820951,
+      27.9208327326544,
+      83.6052722008959,
+      28.2708500441404
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        83.30702478352003,
+        28.0938944697723
+      ]
+    },
+    "title": "Gulmi",
+    "title_en": "Gulmi",
+    "title_ne": "गुल्मी",
+    "code": "gulmi",
+    "order": 57,
+    "province": 5
+  },
+  {
+    "id": 43,
+    "bbox": [
+      83.9365798922003,
+      27.741222131644,
+      84.5588588839746,
+      28.1298089031161
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        84.251194633256,
+        27.955370177536444
+      ]
+    },
+    "title": "Tanahu",
+    "title_en": "Tanahu",
+    "title_ne": "तनहुँ",
+    "code": "tanahun",
+    "order": 58,
+    "province": 4
+  },
+  {
+    "id": 45,
+    "bbox": [
+      84.1868070906258,
+      28.0555751155968,
+      84.6948324360448,
+      28.5102678481381
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        84.43005349109238,
+        28.289315668818336
+      ]
+    },
+    "title": "Lamjung",
+    "title_en": "Lamjung",
+    "title_ne": "लमजुङ्ग",
+    "code": "lamjung",
+    "order": 59,
+    "province": 4
+  },
+  {
+    "id": 48,
+    "bbox": [
+      83.4796630121963,
+      28.5647247801273,
+      84.2478663632242,
+      29.3313585169325
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        83.85787282576845,
+        28.98131449146188
+      ]
+    },
+    "title": "Mustang",
+    "title_en": "Mustang",
+    "title_ne": "मुस्ताङ्ग",
+    "code": "mustang",
+    "order": 60,
+    "province": 4
+  },
+  {
+    "id": 49,
+    "bbox": [
+      83.0999436148076,
+      28.2981731321423,
+      83.8715882807727,
+      28.7937625791441
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        83.45999324326222,
+        28.553146704365126
+      ]
+    },
+    "title": "Myagdi",
+    "title_en": "Myagdi",
+    "title_ne": "म्याग्दी",
+    "code": "myagdi",
+    "order": 61,
+    "province": 4
+  },
+  {
+    "id": 51,
+    "bbox": [
+      83.5591660623768,
+      28.0054975471629,
+      83.8228476564755,
+      28.3997598734657
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        83.67889009696687,
+        28.211300319870627
+      ]
+    },
+    "title": "Parbat",
+    "title_en": "Parbat",
+    "title_ne": "पर्वत",
+    "code": "parbat",
+    "order": 62,
+    "province": 4
+  },
+  {
+    "id": 53,
+    "bbox": [
+      82.5882575185223,
+      27.8777802867276,
+      83.0974939704633,
+      28.3625947506327
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        82.86502527526966,
+        28.115453861229355
+      ]
+    },
+    "title": "Pyuthan",
+    "title_en": "Pyuthan",
+    "title_ne": "प्युठान",
+    "code": "pyuthan",
+    "order": 63,
+    "province": 5
+  },
+  {
+    "id": 55,
+    "bbox": [
+      81.7434288919351,
+      28.1511099599141,
+      82.4373257800095,
+      28.6446827980379
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        82.13874784335462,
+        28.39649855398913
+      ]
+    },
+    "title": "Salyan",
+    "title_en": "Salyan",
+    "title_ne": "सल्यान",
+    "code": "salyan",
+    "order": 64,
+    "province": 6
+  },
+  {
+    "id": 57,
+    "bbox": [
+      82.3921901398994,
+      28.7219839799619,
+      83.6804351913103,
+      29.7064485543897
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        83.05217011480939,
+        29.170655636885265
+      ]
+    },
+    "title": "Dolpa",
+    "title_en": "Dolpa",
+    "title_ne": "डोल्पा",
+    "code": "dolpa",
+    "order": 65,
+    "province": 6
+  },
+  {
+    "id": 59,
+    "bbox": [
+      81.2562642323406,
+      29.6049248741076,
+      82.4976345656177,
+      30.4472763312289
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        81.8798655626356,
+        30.03232237658345
+      ]
+    },
+    "title": "Humla",
+    "title_en": "Humla",
+    "title_ne": "हुम्ला",
+    "code": "humla",
+    "order": 66,
+    "province": 6
+  },
+  {
+    "id": 61,
+    "bbox": [
+      81.4680665866001,
+      28.9710119079125,
+      82.0194323935586,
+      29.461659138163
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        81.75203278875941,
+        29.19511546221388
+      ]
+    },
+    "title": "Kalikot",
+    "title_en": "Kalikot",
+    "title_ne": "कालिकोट",
+    "code": "kalikot",
+    "order": 67,
+    "province": 6
+  },
+  {
+    "id": 62,
+    "bbox": [
+      81.8200630318582,
+      28.6113336255645,
+      82.58018690224,
+      29.1275217484269
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        82.16787118974288,
+        28.865380352837356
+      ]
+    },
+    "title": "Jajarkot",
+    "title_en": "Jajarkot",
+    "title_ne": "जाजरकोट",
+    "code": "jajarkot",
+    "order": 68,
+    "province": 6
+  },
+  {
+    "id": 65,
+    "bbox": [
+      81.0592010293138,
+      28.0689307446884,
+      81.7667110031986,
+      28.6747516937025
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        81.40151534237341,
+        28.383668908446907
+      ]
+    },
+    "title": "Bardiya",
+    "title_en": "Bardiya",
+    "title_ne": "बर्दिया",
+    "code": "bardiya",
+    "order": 69,
+    "province": 5
+  },
+  {
+    "id": 67,
+    "bbox": [
+      80.4681980457778,
+      28.3945109653181,
+      81.2880294020196,
+      29.0681596767632
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        80.8792246054029,
+        28.741641922944602
+      ]
+    },
+    "title": "Kailali",
+    "title_en": "Kailali",
+    "title_ne": "कैलाली",
+    "code": "kailali",
+    "order": 70,
+    "province": 7
+  },
+  {
+    "id": 69,
+    "bbox": [
+      81.026595105407,
+      28.7482784093156,
+      81.5820373826944,
+      29.3866712403906
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        81.29711239175032,
+        29.11256817441899
+      ]
+    },
+    "title": "Achham",
+    "title_en": "Achham",
+    "title_ne": "अछाम",
+    "code": "achham",
+    "order": 71,
+    "province": 7
+  },
+  {
+    "id": 71,
+    "bbox": [
+      80.746080800933,
+      29.3909403159995,
+      81.5650144434031,
+      30.0543162975233
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        81.17871770328547,
+        29.708245162950185
+      ]
+    },
+    "title": "Bajhang",
+    "title_en": "Bajhang",
+    "title_ne": "बझाङ्ग",
+    "code": "bajhang",
+    "order": 72,
+    "province": 7
+  },
+  {
+    "id": 72,
+    "bbox": [
+      80.3642144516166,
+      29.6050155964933,
+      81.1087482447345,
+      30.246722785497
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        80.7918926088294,
+        29.89194957501019
+      ]
+    },
+    "title": "Darchula",
+    "title_en": "Darchula",
+    "title_ne": "दार्चुला",
+    "code": "darchula",
+    "order": 73,
+    "province": 7
+  },
+  {
+    "id": 74,
+    "bbox": [
+      80.1844656606324,
+      28.9932800862584,
+      80.7858680455084,
+      29.4251642317388
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        80.48906942024193,
+        29.223121930278023
+      ]
+    },
+    "title": "Dadeldhura",
+    "title_en": "Dadeldhura",
+    "title_ne": "डडेल्धुरा",
+    "code": "dadeldhura",
+    "order": 74,
+    "province": 7
+  },
+  {
+    "id": 481,
+    "bbox": [
+      83.6770736271777,
+      27.4378229151552,
+      84.431360294216,
+      27.8698765972561
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        84.06217377809207,
+        27.687392178263668
+      ]
+    },
+    "title": "Nawalparasi East",
+    "title_en": "Nawalparasi East",
+    "title_ne": "नवलपरासी (बर्दघाट सुस्ता पूर्व)",
+    "code": "nawalparasieast",
+    "order": 75,
+    "province": 4
+  },
+  {
+    "id": 482,
+    "bbox": [
+      83.5717699047103,
+      27.3467212103096,
+      83.9063794167129,
+      27.6933376341297
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        83.73871051466158,
+        27.52825076350813
+      ]
+    },
+    "title": "Nawalparasi West",
+    "title_en": "Nawalparasi West",
+    "title_ne": "नवलपरासी (बर्दघाट सुस्ता पश्चिम)",
+    "code": "nawalparasiwest",
+    "order": 76,
+    "province": 5
+  },
+  {
+    "id": 542,
+    "bbox": [
+      82.1847362122291,
+      28.5209865769975,
+      82.7003018920112,
+      28.9920640172299
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        82.46045156349273,
+        28.738837863481795
+      ]
+    },
+    "title": "Rukum West",
+    "title_en": "Rukum West",
+    "title_ne": "रुकुम पश्चिम",
+    "code": "rukumwest",
+    "order": 77,
+    "province": 6
+  }
+]

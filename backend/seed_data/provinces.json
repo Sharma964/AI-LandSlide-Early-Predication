@@ -1,0 +1,149 @@
+[
+  {
+    "id": 3,
+    "bbox": [
+      83.9187728578849,
+      26.9191431698797,
+      86.5727626547517,
+      28.3862845807188
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        85.47056392270287,
+        27.67865196906648
+      ]
+    },
+    "title": "Bagmati",
+    "title_en": "Bagmati",
+    "title_ne": "बाग्मती",
+    "code": "bagmati",
+    "order": 1
+  },
+  {
+    "id": 1,
+    "bbox": [
+      86.1559244137852,
+      26.3478370706644,
+      88.2016677742523,
+      28.1130612812249
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        87.27197088279,
+        27.21052319087246
+      ]
+    },
+    "title": "Koshi",
+    "title_en": "Koshi",
+    "title_ne": "कोशी",
+    "code": "p1",
+    "order": 2
+  },
+  {
+    "id": 2,
+    "bbox": [
+      84.4838899645418,
+      26.4223835197793,
+      87.0145939355117,
+      27.4631790982775
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        85.68968070300077,
+        26.930519228980092
+      ]
+    },
+    "title": "Madhesh",
+    "title_en": "Madhesh",
+    "title_ne": "मधेश",
+    "code": "p2",
+    "order": 3
+  },
+  {
+    "id": 4,
+    "bbox": [
+      82.8773532738891,
+      27.4378229151552,
+      85.1980163344162,
+      29.3313585169325
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        84.04977237130528,
+        28.40906158952393
+      ]
+    },
+    "title": "Gandaki",
+    "title_en": "Gandaki",
+    "title_ne": "गण्डकी",
+    "code": "gandaki",
+    "order": 4
+  },
+  {
+    "id": 5,
+    "bbox": [
+      81.0592010293138,
+      27.3302256530826,
+      84.0285404645032,
+      28.8692280187363
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        82.68667353277905,
+        28.051445416166732
+      ]
+    },
+    "title": "Lumbini",
+    "title_en": "Lumbini",
+    "title_ne": "लुम्बिनी",
+    "code": "lumbini",
+    "order": 5
+  },
+  {
+    "id": 6,
+    "bbox": [
+      80.981051199357,
+      28.1511099599141,
+      83.6804351913103,
+      30.4472763312289
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        82.28232937335169,
+        29.253508516077503
+      ]
+    },
+    "title": "Karnali",
+    "title_en": "Karnali",
+    "title_ne": "कर्णाली",
+    "code": "karnali",
+    "order": 6
+  },
+  {
+    "id": 7,
+    "bbox": [
+      80.0585843010467,
+      28.3945109653181,
+      81.8082221152366,
+      30.246722785497
+    ],
+    "centroid": {
+      "type": "Point",
+      "coordinates": [
+        80.94032627817676,
+        29.324895476256362
+      ]
+    },
+    "title": "Sudurpashchim",
+    "title_en": "Sudurpashchim",
+    "title_ne": "सुदुरपश्चिम",
+    "code": "sudurpaschim",
+    "order": 7
+  }
+]

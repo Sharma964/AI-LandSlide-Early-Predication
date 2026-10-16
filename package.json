@@ -1,0 +1,23 @@
+{
+  "name": "nepal-landslide-early-warning-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Nepal AI Landslide Prediction and Early Warning System Workspace",
+  "scripts": {
+    "prestart": "node scripts/free_ports.js",
+    "start": "concurrently \"npm run server\" \"npm run dev\" -n \"backend,frontend\" -c \"cyan,green\"",
+    "clean:ports": "node scripts/free_ports.js",
+    "stop": "node scripts/free_ports.js",
+    "dev": "npm --prefix frontend run dev",
+    "server": "python -m uvicorn backend.main:app --host 127.0.0.1 --port 8001 --reload",
+    "backend": "python -m uvicorn backend.main:app --host 127.0.0.1 --port 8001 --reload",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview",
+    "train": "python backend/ml/train.py",
+    "precompute": "python backend/scripts/precompute_districts.py",
+    "install:all": "npm install && npm --prefix frontend install && python -m pip install -r requirements.txt"
+  },
+  "devDependencies": {
+    "concurrently": "^10.0.5"
+  }
+}

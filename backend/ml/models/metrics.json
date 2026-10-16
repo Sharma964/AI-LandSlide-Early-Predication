@@ -1,0 +1,101 @@
+{
+  "version": "v20260908_163306",
+  "best_model": "Random Forest",
+  "trained_at_utc": "2026-09-08T16:33:06.380627+00:00",
+  "features": [
+    "rainfall_24h",
+    "rainfall_3day",
+    "rainfall_7day",
+    "antecedent_rainfall",
+    "elevation",
+    "slope",
+    "aspect"
+  ],
+  "models": {
+    "Random Forest": {
+      "accuracy": 1.0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0,
+      "roc_auc": 1.0,
+      "cv_mean_roc_auc": 0.9958,
+      "cv_mean_accuracy": 0.9966,
+      "cv_mean_f1": 0.9968,
+      "confusion_matrix": [
+        [
+          34,
+          0
+        ],
+        [
+          0,
+          40
+        ]
+      ],
+      "feature_importance": {
+        "rainfall_7day": 0.2508,
+        "rainfall_3day": 0.208,
+        "rainfall_24h": 0.1722,
+        "slope": 0.15,
+        "antecedent_rainfall": 0.1463,
+        "elevation": 0.0697,
+        "aspect": 0.0032
+      },
+      "trained_samples": 368,
+      "test_samples": 74
+    },
+    "XGBoost": {
+      "accuracy": 0.9865,
+      "precision": 1.0,
+      "recall": 0.975,
+      "f1_score": 0.9873,
+      "roc_auc": 1.0,
+      "cv_mean_roc_auc": 0.9993,
+      "cv_mean_accuracy": 0.9795,
+      "cv_mean_f1": 0.9808,
+      "confusion_matrix": [
+        [
+          34,
+          0
+        ],
+        [
+          1,
+          39
+        ]
+      ],
+      "feature_importance": {
+        "rainfall_7day": 0.5402,
+        "elevation": 0.1966,
+        "antecedent_rainfall": 0.1226,
+        "rainfall_24h": 0.0571,
+        "rainfall_3day": 0.0411,
+        "slope": 0.039,
+        "aspect": 0.0033
+      },
+      "trained_samples": 368,
+      "test_samples": 74
+    },
+    "Logistic Regression": {
+      "accuracy": 0.9865,
+      "precision": 1.0,
+      "recall": 0.975,
+      "f1_score": 0.9873,
+      "roc_auc": 1.0,
+      "cv_mean_roc_auc": 0.9995,
+      "cv_mean_accuracy": 0.9932,
+      "cv_mean_f1": 0.9937,
+      "confusion_matrix": [
+        [
+          34,
+          0
+        ],
+        [
+          1,
+          39
+        ]
+      ],
+      "feature_importance": {},
+      "trained_samples": 368,
+      "test_samples": 74
+    }
+  }
+}
